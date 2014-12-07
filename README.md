@@ -1,4 +1,5 @@
 node-gf2m
 =========
 
-Native module with gf2m implementation
+This module implements number of lowlevel operations needed for elliptic curve
+cryptography.
