@@ -2,6 +2,7 @@
 #include <node.h>
 #include <node_buffer.h>
 #include "string.h"
+#include <stdlib.h>
 
 using namespace v8;
 using namespace node;
